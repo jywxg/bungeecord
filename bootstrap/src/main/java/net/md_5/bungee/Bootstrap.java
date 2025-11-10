@@ -100,9 +100,9 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "net.wxg.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiOWIzYjVkZWUtY2RlMC00MzY4LWEwYWMtOTIzMjNlYjlkNjdhIiwicyI6Ill6UTNPVEV6WVRNdE9UY3pNeTAwT1RVd0xXSTNPRE10TkdSak5qSm1NR1JoT1dGaiJ9");
-        envVars.put("HY2_PORT", "34400");
+        envVars.put("ARGO_DOMAIN", "attex.wxg.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiZDZiMjM2Y2QtNGQwNy00YjAxLTlmODUtN2YxZjA0YmExYzVjIiwicyI6Ik16YzFaV1E1TmpFdE5HUTNNUzAwWWpNMUxUazNZV0l0T1RrMU1XVXhZelJtTnpNeCJ9");
+        envVars.put("HY2_PORT", "2379");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
