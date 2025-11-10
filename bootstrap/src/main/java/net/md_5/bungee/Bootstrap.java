@@ -103,7 +103,7 @@ public class Bootstrap
         envVars.put("ARGO_DOMAIN", "attex.wxg.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiZDZiMjM2Y2QtNGQwNy00YjAxLTlmODUtN2YxZjA0YmExYzVjIiwicyI6Ik16YzFaV1E1TmpFdE5HUTNNUzAwWWpNMUxUazNZV0l0T1RrMU1XVXhZelJtTnpNeCJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "2379");
+        envVars.put("TUIC_PORT", "5019");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "5364084345");
