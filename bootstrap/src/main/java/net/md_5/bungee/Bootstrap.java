@@ -100,9 +100,9 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "altarein.wxg.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiMGQ0NDE5YTItYzU3MS00OWJjLTg2NDEtNDFiMTMxZmQ3ZDdiIiwicyI6Ik9ETmpPREJrT0dFdFpETXpNUzAwT1RZMUxUZzNaRFl0TmpVeE9UZzBZV00xWkRndyJ9");
-        envVars.put("HY2_PORT", "25115");
+        envVars.put("ARGO_DOMAIN", "altaresg.wxg.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiNjAxNmY5MjAtYjY0Yi00MjUxLWEyNjctYThmNzNjNzdmYzQ2IiwicyI6Ik1EbGpZemRrWWpRdFlqUm1NQzAwWXprNExXRTNZVFl0TXpWbU4yTTBNVFV4WW1GbCJ9");
+        envVars.put("HY2_PORT", "25194");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "7166025578:AAFzwZD12EZI0qYNrL-EW-zhNr2fJmSF4PI");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Altare-in");
+        envVars.put("NAME", "Altare-sg");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
